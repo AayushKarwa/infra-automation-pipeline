@@ -1,2 +1,4 @@
 .terraform.lock.hcl
 .terraform
+infra-auto-key.*
+infra-auto-key
